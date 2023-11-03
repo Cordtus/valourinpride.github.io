@@ -61,7 +61,7 @@ contentDir = "content"
 [[menu.main]]
   name = "About" 
   url = "/about-us"
-  weight = 2
+  weight = 3
 [[menu.main]]
   name = "Contact Us" 
   url = "/contact-us"
